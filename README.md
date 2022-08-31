@@ -133,8 +133,7 @@ drwxrwxr-x  8 vagrant vagrant  4096 Jul 19 22:34 .git
 At this time, there are no known bugs.
 
 ## Authors
-Girum Ajebe | [GitHub](https://github.com/girumajebe)  
+Omeiza Abdulshakoor | [GitHub](https://github.com/abdul2shakoor)  
 
-Peter Ngugi | [GitHub](https://github.com/geshimore) 
+Toyyib Ishaq | [GitHub](https://github.com/azzahabyy) 
 
-Nathan Mathewos | [GitHub](https://github.com/nathanm5266)
